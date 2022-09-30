@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e-c-centric
 - 👀 I’m interested in anything tech.
-- 🌱 I’m currently learning computer engineering.
+- 🌱 I’m currently learning web dev.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me egalezoyiku@gmail.com
 
