@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @e-c-centric
-- 👀 I’m interested in anything tech.
-- 🌱 I’m currently learning web dev.
-- 💞️ I’m looking to collaborate on anything.
+- 👋 Hi, I’m Elikem Asudo.
+- 👀 I’m interested in any project that is geared toward eliminating access barriers.
+- 🌱 I’m currently learning web development, and embedded machine learning (struggling at it though 😂).
+- 💞️ I’m looking to collaborate on any project at all. I love adventures.
 - 📫 How to reach me egalezoyiku@gmail.com
 
 <!---
